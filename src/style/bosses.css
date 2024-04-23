@@ -1,0 +1,48 @@
+.bosses {
+    height: 100vh;
+    width: 100%;
+    background: url("../img/Backround-Blur.png") 0 0 / cover no-repeat;
+    padding: 50px 0;
+	 overflow: hidden;
+	 overflow-y: auto;
+}
+
+.bosses h1{
+    width: fit-content;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.73);
+    border-radius: 15px;
+    color: white;
+	margin: 0 auto;
+}
+
+.bosses button{
+    width: 220px;
+    height: 260px;
+    border: none;
+    cursor: pointer;
+}
+
+#Boss1-btn {
+    background: url(/src/img/Waas-Boss\ card.png) 0 0 /cover no-repeat;
+}
+
+
+#Boss2-btn {
+    background: url(/src/img/Hoit-Boss\ card.png) 0 0 /cover no-repeat;
+}
+
+#Boss3-btn {
+    background: url(/src/img/aiouhf8wh.png) 0 0 /cover no-repeat;
+}
+
+#Boss4-btn {
+    background: url(/src/img/Iosef-Boss\ card.png) 0 0 /cover no-repeat;
+}
+
+.bosses-list .row {
+    gap: 30px;
+    margin-top: 30px;
+	 flex-wrap: wrap;
+	 justify-content: center;
+}

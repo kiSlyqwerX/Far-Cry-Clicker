@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Waas",
+		"hp": 2000,
+		"img": "../img/Waas Boss.png",
+		"time": 50
+	},
+	{
+		"id": 2,
+		"name": "Hoit",
+		"hp": 5000,
+		"img": "../img/Hoit Boss.png",
+		"time": 120
+	},
+	{
+		"id": 3,
+		"name": "Cytra",
+		"hp": 50000,
+		"img": "../img/Cytra Boss.png",
+		"time": 360
+	},
+	{
+		"id": 4,
+		"name": "Josef",
+		"hp": 100000,
+		"img": "../img/Josef Boss.png",
+		"time": 540
+	}
+]
