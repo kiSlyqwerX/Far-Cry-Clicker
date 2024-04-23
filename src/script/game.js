@@ -131,6 +131,6 @@ mainBossEl.addEventListener("click", () => {
 
 modal.addEventListener("click", (event) => {
 	if (event.target.closest(".to-modal-menu")) {
-		location.pathname = "/src/pages/bosses.html"
+		location.pathname = "/Far-Cry-Clicker/src/pages/bosses.html"
 	}
 })
