@@ -24,20 +24,20 @@
 }
 
 #Boss1-btn {
-    background: url(/src/img/Waas-Boss\ card.png) 0 0 /cover no-repeat;
+    background: url(../img/Waas-Boss\ card.png) 0 0 /cover no-repeat;
 }
 
 
 #Boss2-btn {
-    background: url(/src/img/Hoit-Boss\ card.png) 0 0 /cover no-repeat;
+    background: url(../img/Hoit-Boss\ card.png) 0 0 /cover no-repeat;
 }
 
 #Boss3-btn {
-    background: url(/src/img/aiouhf8wh.png) 0 0 /cover no-repeat;
+    background: url(../img/aiouhf8wh.png) 0 0 /cover no-repeat;
 }
 
 #Boss4-btn {
-    background: url(/src/img/Iosef-Boss\ card.png) 0 0 /cover no-repeat;
+    background: url(../img/Iosef-Boss\ card.png) 0 0 /cover no-repeat;
 }
 
 .bosses-list .row {

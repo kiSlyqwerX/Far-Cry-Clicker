@@ -10,10 +10,8 @@ let modalWindowSpan = document.querySelector(".modal__window span")
 let allGunsBtns = document.querySelectorAll(".right button")
 
 returnBtn.addEventListener("click", () => {
-	location.pathname = "/src/pages/bosses.html"
+	location.pathname = "/Far-Cry-Clicker/src/pages/bosses.html"
 })
-
-
 
 let timerEl = document.querySelector(".timer")
 
@@ -53,7 +51,7 @@ function startTimer() {
 		if (totalTime < 1) {
 			alert("Ви програли")
 			clearInterval(timer)
-			location.pathname = "/src/pages/bosses.html"
+			location.pathname = "/Far-Cry-Clicker/src/pages/bosses.html"
 		} else {
 			totalTime--
 		}
